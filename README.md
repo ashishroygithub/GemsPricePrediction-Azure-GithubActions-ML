@@ -166,14 +166,14 @@ Azure Elastic Beanstalk link : [https://gemsstonepriceprediction.azurewebsites.n
 ![API Prediction](./screenshots/APIPrediction.jpg)
 
 
+# Azure Web App Summary
+
+![GempricepredictionDeployementSummary](./screenshots/GempricepredictionDeployementSummary.jpg)
+
+
 # Github Actions UI
 
-![API Prediction](./screenshots/APIPrediction.jpg)
-
-
-# Github Actions UI
-
-![API Prediction](./screenshots/APIPrediction.jpg)
+![GithubactionsSummaryPage](./screenshots/GithubactionsSummaryPage.jpg)
 
 
 # Approach for the project 
