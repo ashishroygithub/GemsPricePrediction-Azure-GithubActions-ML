@@ -147,13 +147,10 @@ Dataset Source Link :
 
   A new github workflow folder will be created.
 
-* `Step 2` : Build A code Pipeline : Give Pipeline name > choose source provider (Github) > Connect your github > choose your repo and branch > skip build stage > Deploy provider (choose Elastic bean stock and fill in the info) > Create Pipeline.
-
-
 
 # Azure Deployment Link :
 
-Azure Elastic Beanstalk link : [https://gemsstonepriceprediction.azurewebsites.net/](https://gemsstonepriceprediction.azurewebsites.net/)
+Azure link : [https://gemsstonepriceprediction.azurewebsites.net/](https://gemsstonepriceprediction.azurewebsites.net/)
 
 
 # Screenshot of UI
