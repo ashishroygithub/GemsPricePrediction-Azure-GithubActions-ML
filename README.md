@@ -128,13 +128,21 @@ Dataset Source Link :
 ##### DEPLOYMENT - AZURE + GITHUB ACTIONS
 
 * `Step 1` : Build Environment on Azure > portal.azure.com > Login with Credentials > click on '+' Symbol (create a resource) > webapp > create > Fill in all the details
+  
         * Subscription > If you have any then click on that, if not go with pay as you go.
+  
         * Resource Group Name > Create New > testgroupprojects
+  
         * Instance Details > Name > gemspriceprediction
+  
         * Instance Details > Publish > code and later we can also push this using dockers.
+  
         * Choose your free tier in the region (## IMPORTANT :  free tier does not support github actions, either go for basic or premium tier.)
+  
         * Runtime stack > Python 3.8 > (Then click on next)
-        * GitHub action settings > enable > add account/ change account > organization = ashishroygithub > select repository on which you want to push this. > branch : main. 
+  
+        * GitHub action settings > enable > add account/ change account > organization = ashishroygithub > select repository on which you want to push this. > branch : main.
+  
         * Review + Create
 
   A new github workflow folder will be created.
@@ -145,7 +153,7 @@ Dataset Source Link :
 
 # Azure Deployment Link :
 
-AWS Elastic Beanstalk link : [http://gemstonepriceprediction-mlprojec-env.eba-hm32pq3a.ap-south-1.elasticbeanstalk.com/](http://gemstonepriceprediction-mlprojec-env.eba-hm32pq3a.ap-south-1.elasticbeanstalk.com/)
+Azure Elastic Beanstalk link : [https://gemsstonepriceprediction.azurewebsites.net/](https://gemsstonepriceprediction.azurewebsites.net/)
 
 
 # Screenshot of UI
@@ -154,6 +162,16 @@ AWS Elastic Beanstalk link : [http://gemstonepriceprediction-mlprojec-env.eba-hm
 
 
 # Postman Testing of API :
+
+![API Prediction](./screenshots/APIPrediction.jpg)
+
+
+# Github Actions UI
+
+![API Prediction](./screenshots/APIPrediction.jpg)
+
+
+# Github Actions UI
 
 ![API Prediction](./screenshots/APIPrediction.jpg)
 
