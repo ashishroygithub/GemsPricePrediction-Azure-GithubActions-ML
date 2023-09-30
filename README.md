@@ -13,16 +13,16 @@
 * `Step 3` : Activate the virtual environment: `conda activate venv/`
 
 * `Step 4` : `Next process is to clone the entire repository so that we are able to commit our code.`
-    * echo "#GemsPricePrediction-AWS-ElasticBeanStalk-Codepipeline" >> README.md
+    * echo "#GemsPricePrediction-Azure-GithubActions-ML" >> README.md
     * git init
     * git add README.md
     * git commit -m "first commit"
     * git branch -M main
-    * git remote add origin https://github.com/ashishroygithub/GemsPricePrediction-AWS-ElasticBeanStalk-Codepipeline.git
+    * git remote add origin https://github.com/ashishroygithub/GemsPricePrediction-Azure-GithubActions-ML.git
     * git push -u origin main
 
 * `Step 5` : `For Existing Repository:`
-    * git remote add origin https://github.com/ashishroygithub/GemsPricePrediction-AWS-ElasticBeanStalk-Codepipeline.git
+    * git remote add origin https://github.com/ashishroygithub/GemsPricePrediction-Azure-GithubActions-ML.git
     * git branch -M main
     * git push -u origin main
 
